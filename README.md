@@ -18,10 +18,10 @@ A simple switch for Bulma
 
 ### Disabled switch
 
-ˋˋˋhtml
+´´´html
 <label class="switch is-disabled">
     <input type="checkbox" class="switch-input" disabled />
     <span class="switch-track"><span class="switch-thumb"></span></span>
     <span class="switch-label">Disabled state</span>
 </label>
-ˋˋˋ
+´´´
