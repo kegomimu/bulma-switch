@@ -3,7 +3,7 @@ A simple switch for Bulma
 
 ## Usage
 
-1. Include ˋulma-switch.cssˋ in your webpage
+1. Include `bulma-switch.css` in your webpage
 2. Use it like below:
 
 ### Default switch
